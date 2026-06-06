@@ -1,6 +1,9 @@
 <h1 align="center">Hi there, I'm Collins Kimani Gocho</h1>
 
 <p align="center">
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Software+Developer;ML+%26+Data+Science+Enthusiast;Cybersecurity+Explorer&font=Fira%20Code&center=true&width=500&height=45&color=00BFFF&vCenter=true&size=22">
+</p>
   <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Software+Developer;ML+%26+Data+Science+Enthusiast;Cybersecurity+Explorer&font=Fira%20Code&center=true&width=500&height=45&color=00BFFF&vCenter=true&size=22">
 </p>
 
@@ -42,8 +45,15 @@ I'm a passionate **Computer Science student** with a strong curiosity for how te
 ##  GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-dark&area=true&hide_border=true" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" height="170">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/github-readme/main/output/contribs-dark.svg" />
+  <img alt="3D GitHub contribution chart" src="https://raw.githubusercontent.com/your-username/github-readme/main/output/contribs-light.svg" />
+</picture>
 </p>
 
 ---
