@@ -4,8 +4,6 @@
   <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Software+Developer;ML+%26+Data+Science+Enthusiast;Cybersecurity+Explorer&font=Fira%20Code&center=true&width=500&height=45&color=00BFFF&vCenter=true&size=22">
 </p>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Software+Developer;ML+%26+Data+Science+Enthusiast;Cybersecurity+Explorer&font=Fira%20Code&center=true&width=500&height=45&color=00BFFF&vCenter=true&size=22">
-</p>
 
 ---
 
