@@ -41,17 +41,20 @@ I'm a passionate **Computer Science student** with a strong curiosity for how te
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CollinsGocho&theme=github-dark&area=true&hide_border=true" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=CollinsGocho&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CollinsGocho&layout=compact&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api?username=CollinsGocho&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CollinsGocho&layout=compact&theme=tokyonight" alt="Top Languages" height="170">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CollinsGocho&theme=github-dark&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph">
 </p>
 
-### 3D Isometric Contribution Graph
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CollinsGocho&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CollinsGocho&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
+</p>
+
+---
+
+## 3D Isometric Contribution Graph
 
 This creates a visually unique and eye-catching 3D isometric version of your contribution graph!
 
