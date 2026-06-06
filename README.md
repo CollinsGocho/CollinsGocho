@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Collins Kimani Gocho👋</h1>
+<h1 align="center">Hi there, I'm Collins Kimani Gocho</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Software+Developer;ML+%26+Data+Science+Enthusiast;Cybersecurity+Explorer&font=Fira%20Code&center=true&width=500&height=45&color=00BFFF&vCenter=true&size=22">
@@ -6,14 +6,14 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate **Computer Science student** with a strong curiosity for how technology works under the hood. I love building things, breaking them (ethically), and learning from the process.
 
-- 💻 Currently venturing into **Software Development**, **Machine Learning**, and **Data Science**
-- 🔐 Hands-on experience with **Networking** & **Cybersecurity**
-- 🌱 Always learning something new — today it's [mention a tool/library you're learning, e.g., TensorFlow, Docker, etc.]
-- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
+- Currently venturing into **Software Development**, **Machine Learning**, and **Data Science**
+- Hands-on experience with **Networking** & **Cybersecurity**
+- Always learning something new — today it's Node js and React js
+- Reach me at: collinkimani482@gmail.com
 
 ---
 
@@ -39,7 +39,7 @@ I'm a passionate **Computer Science student** with a strong curiosity for how te
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170">
@@ -48,7 +48,7 @@ I'm a passionate **Computer Science student** with a strong curiosity for how te
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -58,4 +58,4 @@ I'm a passionate **Computer Science student** with a strong curiosity for how te
 
 ---
 
-⭐️ *“Code. Learn. Secure. Repeat.”*
+ *“Code. Learn. Secure. Repeat.”*
